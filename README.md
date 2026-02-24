@@ -1,5 +1,7 @@
 ## Hola!!, soy Sebas
+Estoy aprendiendo día por día a programar , todo por mi propia cuenta.
 
+Estoy decidido a que esta es mi carrera, me dedico a pruebas de S.O, pentesting general intermedio a entornos virtuales, programación intermedia en python (creación de scripts intermedios como automatizaciónes, taskbars, controlo el uso de las LORA en IAs avanzadas como ComfyUI y otros proyectos personales!!
 <!--
 **sebassalgadoo/sebassalgadoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
